@@ -104,6 +104,7 @@ Distributed under the MIT License.
 ## Acknowledgements
 
 * [Paris Nanterre University](https://www.parisnanterre.fr/)
+* [GiantBomb](https://www.giantbomb.com/)
 * [Img Shields](https://shields.io/)
 * [Simple Icons](https://simpleicons.org/)
 * [Readme Generator](https://readme.shaankhan.dev/)
