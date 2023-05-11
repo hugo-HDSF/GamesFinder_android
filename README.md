@@ -14,7 +14,9 @@
     <a href="https://github.com/hugo-HDSF/GamesFinder_android/blob/main/assets/videos/example.gif"><strong>View Exemple »</strong></a>
     .
     <a href="https://github.com/hugo-HDSF/GamesFinder_android/issues">Report Bug</a>
-  </p>
+    .
+    <img src="https://img.shields.io/github/license/ucan-lab/docker-laravel" alt="License" height="15">
+    </p>
 </p>
 
 <div align="center">
