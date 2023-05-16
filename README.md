@@ -51,7 +51,7 @@
 
 ## About The Project
 <div align="center">
-  <img src="assets/videos/example.gif" height="500">
+  <img src="https://github.com/hugo-HDSF/GamesFinder_android/blob/main/assets/videos/example.gif" height="500">
 </div>
 Games Finder is an Android App using GiantBomb API. This App allows you to find all games related to a specific key word and gives you details and reviews.
 
