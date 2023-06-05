@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Games Finder <a href="https://symfony.com/">Android</a></h1>
+<h1 align="center">Games Finder <a href="https://www.android.com/">Android</a></h1>
 
 <p align="center">
   <p align="center">
@@ -15,7 +15,7 @@
     .
     <a href="https://github.com/hugo-HDSF/GamesFinder_android/issues">Report Bug</a>
     .
-    <img src="https://img.shields.io/github/license/ucan-lab/docker-laravel" alt="License" height="15">
+    <img src="https://img.shields.io/github/license/hugo-HDSF/GamesFinder_android" alt="License" height="15">
     </p>
 </p>
 
